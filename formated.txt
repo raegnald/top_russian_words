@@ -1,0 +1,1000 @@
+<small>#1</small> <b>и</b>. <i>conj.</i> — and, though.
+<small>#2</small> <b>на</b>. <i>prep.</i> — on, it, at, to.
+<small>#3</small> <b>я</b>. <i>pron.</i> — I.
+<small>#4</small> <b>что</b>. <i>conj., pron.</i> — what, that, why.
+<small>#5</small> <b>тот</b>. <i>adj., pron.</i> — that.
+<small>#6</small> <b>с</b>. <i>prep.</i> — with, and, from, of.
+<small>#7</small> <b>а</b>. <i>conj.</i> — while, and, but.
+<small>#8</small> <b>весь</b>. <i>pron., n.</i> — all, everything.
+<small>#9</small> <b>это</b>. <i>pron.</i> — that, this, it.
+<small>#10</small> <b>как</b>. <i>adv., conj.</i> — how, what, as, like.
+<small>#11</small> <b>она</b>. <i>pron.</i> — she.
+<small>#12</small> <b>по</b>. <i>prep.</i> — on, along, by.
+<small>#13</small> <b>но</b>. <i>conj., n.</i> — but.
+<small>#14</small> <b>они</b>. <i>pron.</i> — they.
+<small>#15</small> <b>к</b>. <i>prep.</i> — to, for, by.
+<small>#16</small> <b>быть</b>. <i>vb.</i> — to be.
+<small>#17</small> <b>ты</b>. <i>pron.</i> — you, thou.
+<small>#18</small> <b>из</b>. <i>prep.</i> — from, of, in.
+<small>#19</small> <b>мы</b>. <i>pron.</i> — we.
+<small>#20</small> <b>за</b>. <i>prep.</i> — behind, over, at, after.
+<small>#21</small> <b>вы</b>. <i>pron.</i> — you.
+<small>#22</small> <b>так</b>. <i>adv.</i> — so, thus, then.
+<small>#23</small> <b>же</b>. <i>conj, particle.</i> — and, as for, but, same.
+<small>#24</small> <b>от</b>. <i>prep.</i> — from, of, for.
+<small>#25</small> <b>сказать</b>. <i>vb.</i> — to say, to speak.
+<small>#26</small> <b>этот</b>. <i>pron.</i> — this.
+<small>#27</small> <b>мочь</b>. <i>vb.</i> — be able.
+<small>#28</small> <b>человек</b>. <i>n.</i> — man, person.
+<small>#29</small> <b>не</b>. <i>particle.</i> — not.
+<small>#30</small> <b>он</b>. <i>pron.</i> — he.
+<small>#31</small> <b>ещё</b>. <i>adv.</i> — still, yet.
+<small>#32</small> <b>бы</b>. <i>particle.</i> — would.
+<small>#33</small> <b>такой</b>. <i>pron.</i> — such, so, some.
+<small>#34</small> <b>только</b>. <i>adv., conj.</i> — only, merely, but.
+<small>#35</small> <b>себя</b>. <i>pron., particle.</i> — myself, himself, herself.
+<small>#36</small> <b>своё</b>. <i>pron., n.</i> — one’s own, my, our.
+<small>#37</small> <b>какой</b>. <i>pron.</i> — what, which, how.
+<small>#38</small> <b>когда</b>. <i>adv., conj.</i> — when, while, as.
+<small>#39</small> <b>уже</b>. <i>adv.</i> — already, by now.
+<small>#40</small> <b>для</b>. <i>prep.</i> — for, to.
+<small>#41</small> <b>кто</b>. <i>pron.</i> — who, that, some.
+<small>#42</small> <b>да</b>. <i>conj., particle.</i> — yes, but.
+<small>#43</small> <b>говорить</b>. <i>vb.</i> — to say, to tell, to speak.
+<small>#44</small> <b>год</b>. <i>n.</i> — year.
+<small>#45</small> <b>знать</b>. <i>vb.</i> — to know, be aware.
+<small>#46</small> <b>мой</b>. <i>pron.</i> — my, mine.
+<small>#47</small> <b>один</b>. <i>cardinal number, pron.</i> — one, some, alone.
+<small>#48</small> <b>в</b>. <i>prep.</i> — in, at.
+<small>#49</small> <b>который</b>. <i>pron.</i> — which, who, that.
+<small>#50</small> <b>до</b>. <i>prep.</i> — to, up to, about, before.
+<small>#51</small> <b>или</b>. <i>conj.</i> — or.
+<small>#52</small> <b>если</b>. <i>conj.</i> — if.
+<small>#53</small> <b>о</b>. <i>prep.</i> — of, about, against.
+<small>#54</small> <b>у</b>. <i>prep.</i> — by, with, of.
+<small>#55</small> <b>нет</b>. <i>negation</i> — no, not, but.
+<small>#56</small> <b>время</b>. <i>n.</i> — time, season.
+<small>#57</small> <b>рука</b>. <i>n.</i> — hand, arm.
+<small>#58</small> <b>стать</b>. <i>vb.</i> — to become, begin, come.
+<small>#59</small> <b>большой</b>. <i>adj.</i> — big, large, important.
+<small>#60</small> <b>ни</b>. <i>conj, particle.</i> — not a, not, neither… nor.
+<small>#61</small> <b>другой</b>. <i>pron.</i> — other, another, different.
+<small>#62</small> <b>наш</b>. <i>pron.</i> — our, ours.
+<small>#63</small> <b>свой</b>. <i>pron.</i> — my, our, your.
+<small>#64</small> <b>ну</b>. <i>interj, particle.</i> — now, right, well, come on.
+<small>#65</small> <b>под</b>. <i>prep.</i> — under, for, towards, to.
+<small>#66</small> <b>где</b>. <i>adv.</i> — where.
+<small>#67</small> <b>дело</b>. <i>n.</i> — business, affair, matter.
+<small>#68</small> <b>есть</b>. <i>vb.</i> — to eat, to be.
+<small>#69</small> <b>сам</b>. <i>pron.</i> — myself, yourself.
+<small>#70</small> <b>самый</b>. <i>pron.</i> — most, the very, the same.
+<small>#71</small> <b>чтобы</b>. <i>conj., particle.</i> — that, in order that.
+<small>#72</small> <b>два</b>. <i>cardinal number</i> — two.
+<small>#73</small> <b>там</b>. <i>adv.</i> — there, then.
+<small>#74</small> <b>чем</b>. <i>conj., particle.</i> — than; instead of.
+<small>#75</small> <b>глаз</b>. <i>n.</i> — eye; sight.
+<small>#76</small> <b>даже</b>. <i>particle.</i> — even.
+<small>#77</small> <b>первый</b>. <i>adj., number</i> — first, front, former.
+<small>#78</small> <b>день</b>. <i>n.</i> — day.
+<small>#79</small> <b>тут</b>. <i>adv.</i> — here, now, then.
+<small>#80</small> <b>во</b>. <i>prep., particle.</i> — in, at; super, exactly.
+<small>#81</small> <b>ничто</b>. <i>pron.</i> — nothing.
+<small>#82</small> <b>потом</b>. <i>adv.</i> — afterwards, then.
+<small>#83</small> <b>очень</b>. <i>adv.</i> — very.
+<small>#84</small> <b>со</b>. <i>prep.</i> — with.
+<small>#85</small> <b>хотеть</b>. <i>vb.</i> — to want, like.
+<small>#86</small> <b>ли</b>. <i>conj., particle.</i> — whether, if.
+<small>#87</small> <b>при</b>. <i>prep.</i> — attached to, in the presence of, by, about.
+<small>#88</small> <b>голова</b>. <i>n.</i> — head, mind, brains.
+<small>#89</small> <b>вот</b>. <i>particle.</i> — here, there, this is, that’s.
+<small>#90</small> <b>без</b>. <i>prep.</i> — without.
+<small>#91</small> <b>видеть</b>. <i>vb.</i> — to see.
+<small>#92</small> <b>идти</b>. <i>vb.</i> — to go, come.
+<small>#93</small> <b>теперь</b>. <i>adv.</i> — now, nowadays.
+<small>#94</small> <b>тоже</b>. <i>adv.</i> — also, as well, too.
+<small>#95</small> <b>стоять</b>. <i>vb.</i> — to stand, be, stand up.
+<small>#96</small> <b>друг</b>. <i>n.</i> — friend.
+<small>#97</small> <b>дом</b>. <i>n.</i> — house, home.
+<small>#98</small> <b>раз</b>. <i>n., adv.</i> — time, once, since.
+<small>#99</small> <b>можно</b>. <i>predicate</i> — one can.
+<small>#100</small> <b>после</b>. <i>prep.</i> — after, afterwards.
+<small>#101</small> <b>слово</b>. <i>n.</i> — word.
+<small>#102</small> <b>здесь</b>. <i>adv.</i> — here.
+<small>#103</small> <b>думать</b>. <i>vb.</i> — to think; believe.
+<small>#104</small> <b>место</b>. <i>n.</i> — place; seat.
+<small>#105</small> <b>спросить</b>. <i>vb.</i> — to ask.
+<small>#106</small> <b>через</b>. <i>prep.</i> — through, across.
+<small>#107</small> <b>лицо</b>. <i>n.</i> — face; person.
+<small>#108</small> <b>что</b>. <i>pron.</i> — what, which, that.
+<small>#109</small> <b>тогда</b>. <i>adv.</i> — then.
+<small>#110</small> <b>ведь</b>. <i>conj.</i> — you see, you know.
+<small>#111</small> <b>хороший</b>. <i>adj.</i> — good, nice (see #152).
+<small>#112</small> <b>каждый</b>. <i>pron.</i> — each, every.
+<small>#113</small> <b>надо</b>. <i>prep, vb.</i> — over, above, ought to.
+<small>#114</small> <b>жить</b>. <i>vb.</i> — to live.
+<small>#115</small> <b>должный</b>. <i>adj.</i> — due, proper.
+<small>#116</small> <b>смотреть</b>. <i>vb.</i> — to look, watch.
+<small>#117</small> <b>почему</b>. <i>adv.</i> — why.
+<small>#118</small> <b>потому</b>. <i>adv.</i> — that’s why.
+<small>#119</small> <b>сторона</b>. <i>n.</i> — side, party.
+<small>#120</small> <b>просто</b>. <i>adv.</i> — simply.
+<small>#121</small> <b>нога</b>. <i>n.</i> — foot, leg.
+<small>#122</small> <b>сидеть</b>. <i>vb.</i> — to sit.
+<small>#123</small> <b>понять</b>. <i>vb.</i> — to understand; realize.
+<small>#124</small> <b>иметь</b>. <i>vb.</i> — to have, own.
+<small>#125</small> <b>новый</b>. <i>adj.</i> — new; modern.
+<small>#126</small> <b>сейчас</b>. <i>adv.</i> — now, presently, soon.
+<small>#127</small> <b>вдруг</b>. <i>adv.</i> — suddenly.
+<small>#128</small> <b>над</b>. <i>prep.</i> — above, over.
+<small>#129</small> <b>взять</b>. <i>vb.</i> — to take.
+<small>#130</small> <b>никто</b>. <i>pron.</i> — nobody.
+<small>#131</small> <b>жизнь</b>. <i>n.</i> — life.
+<small>#132</small> <b>дверь</b>. <i>n.</i> — door.
+<small>#133</small> <b>перед</b>. <i>prep.</i> — before, in front of.
+<small>#134</small> <b>нужный</b>. <i>adj.</i> — necessary.
+<small>#135</small> <b>понимать</b>. <i>vb.</i> — to understand.
+<small>#136</small> <b>казаться</b>. <i>vb.</i> — to seem, appear; masterrussian, dot com.
+<small>#137</small> <b>работа</b>. <i>n.</i> — work, job.
+<small>#138</small> <b>три</b>. <i>cardinal number</i> — three.
+<small>#139</small> <b>ваш</b>. <i>pron.</i> — yours.
+<small>#140</small> <b>уж</b>. <i>adv.,  particle.</i> — really, already.
+<small>#141</small> <b>земля</b>. <i>n.</i> — earth, land, soil.
+<small>#142</small> <b>сделать</b>. <i>vb.</i> — to do, make, finish.
+<small>#143</small> <b>несколько</b>. <i>adv.</i> — several, some.
+<small>#144</small> <b>час</b>. <i>n.</i> — hour, time.
+<small>#145</small> <b>голос</b>. <i>n.</i> — voice.
+<small>#146</small> <b>город</b>. <i>n.</i> — town, city.
+<small>#147</small> <b>конечный</b>. <i>adj.</i> — final, last.
+<small>#148</small> <b>пока</b>. <i>adv.</i> — for the present.
+<small>#149</small> <b>конец</b>. <i>n.</i> — end, distance.
+<small>#150</small> <b>давать</b>. <i>vb.</i> — to give; let, allow.
+<small>#151</small> <b>вода</b>. <i>n.</i> — water.
+<small>#152</small> <b>более</b>. <i>adv.</i> — more.
+<small>#153</small> <b>хотя</b>. <i>conj.</i> — although.
+<small>#154</small> <b>всегда</b>. <i>adv.</i> — always.
+<small>#155</small> <b>второй</b>. <i>ordinal number</i> — second.
+<small>#156</small> <b>куда</b>. <i>adv.</i> — where, what for, much.
+<small>#157</small> <b>пойти</b>. <i>vb.</i> — to go.
+<small>#158</small> <b>стол</b>. <i>n.</i> — table, desk; board.
+<small>#159</small> <b>делать</b>. <i>vb.</i> — to do, make.
+<small>#160</small> <b>увидеть</b>. <i>vb.</i> — to see.
+<small>#161</small> <b>сила</b>. <i>n.</i> — strength, force.
+<small>#162</small> <b>отец</b>. <i>n.</i> — father (see #918).
+<small>#163</small> <b>женщина</b>. <i>n.</i> — woman.
+<small>#164</small> <b>машина</b>. <i>n.</i> — car, machine, engine.
+<small>#165</small> <b>хорошо</b>. <i>adv.</i> — well (see #114).
+<small>#166</small> <b>ночь</b>. <i>n.</i> — night.
+<small>#167</small> <b>сразу</b>. <i>adv.</i> — at once, right away, just.
+<small>#168</small> <b>мир</b>. <i>n.</i> — world, peace.
+<small>#169</small> <b>совсем</b>. <i>adv.</i> — quite, entirely, totally.
+<small>#170</small> <b>остаться</b>. <i>vb.</i> — to remain, stay (see #297).
+<small>#171</small> <b>об</b>. <i>prep.</i> — about, of (see #34).
+<small>#172</small> <b>вид</b>. <i>n.</i> — appearance, look, view.
+<small>#173</small> <b>выйти</b>. <i>vb.</i> — to go out, come out, appear.
+<small>#174</small> <b>дать</b>. <i>vb.</i> — to give; masterrussian, dot com.
+<small>#175</small> <b>работать</b>. <i>vb.</i> — to work.
+<small>#176</small> <b>любить</b>. <i>vb.</i> — to love.
+<small>#177</small> <b>случай</b>. <i>n.</i> — case, occasion, incident.
+<small>#178</small> <b>последний</b>. <i>adj.</i> — last, the latest, new.
+<small>#179</small> <b>ряд</b>. <i>n.</i> — row, line.
+<small>#180</small> <b>оказаться</b>. <i>vb.</i> — find oneself, turn out.
+<small>#181</small> <b>начало</b>. <i>n.</i> — beginning, origin, source.
+<small>#182</small> <b>твой</b>. <i>pron.</i> — your, yours (informal).
+<small>#183</small> <b>вопрос</b>. <i>n.</i> — question, matter, problem.
+<small>#184</small> <b>ответить</b>. <i>vb.</i> — to answer, reply (see #404).
+<small>#185</small> <b>между</b>. <i>prep.</i> — between, among.
+<small>#186</small> <b>почти</b>. <i>adv.</i> — almost.
+<small>#187</small> <b>опять</b>. <i>adv.</i> — again.
+<small>#188</small> <b>белый</b>. <i>adj.</i> — white.
+<small>#189</small> <b>деньги</b>. <i>n.</i> — money.
+<small>#190</small> <b>значить</b>. <i>vb.</i> — to mean,  signify.
+<small>#191</small> <b>про</b>. <i>prep.</i> — about, for.
+<small>#192</small> <b>лишь</b>. <i>adv., conj.</i> — only, as soon as.
+<small>#193</small> <b>старый</b>. <i>adj.</i> — old.
+<small>#194</small> <b>война</b>. <i>n.</i> — war.
+<small>#195</small> <b>посмотреть</b>. <i>vb.</i> — to take a look, watch, inspect.
+<small>#196</small> <b>правда</b>. <i>n.</i> — truth.
+<small>#197</small> <b>главный</b>. <i>adj.</i> — main, chief.
+<small>#198</small> <b>страна</b>. <i>n.</i> — country.
+<small>#199</small> <b>свет</b>. <i>n.</i> — light;world.
+<small>#200</small> <b>много</b>. <i>adv.</i> — many, much (see #799).
+<small>#201</small> <b>подумать</b>. <i>vb.</i> — to think.
+<small>#202</small> <b>будто</b>. <i>conj.</i> — as if, as though.
+<small>#203</small> <b>ждать</b>. <i>vb.</i> — to wait.
+<small>#204</small> <b>товарищ</b>. <i>n.</i> — comrade, friend.
+<small>#205</small> <b>ребёнок</b>. <i>n.</i> — child, kid, infant.
+<small>#206</small> <b>однако</b>. <i>conj.,  misc.</i> — however, though.
+<small>#207</small> <b>лежать</b>. <i>vb.</i> — to lie, be situated.
+<small>#208</small> <b>именно</b>. <i>misc.</i> — namely, just.
+<small>#209</small> <b>окно</b>. <i>n.</i> — window, windowsill.
+<small>#210</small> <b>никакой</b>. <i>pron.</i> — no, none.
+<small>#211</small> <b>найти</b>. <i>vb.</i> — to find, discover, consider.
+<small>#212</small> <b>писать</b>. <i>vb.</i> — to write.
+<small>#213</small> <b>комната</b>. <i>n.</i> — a room.
+<small>#214</small> <b>Москва</b>. <i>n.</i> — Moscow.
+<small>#215</small> <b>часть</b>. <i>n.</i> — part, share, department.
+<small>#216</small> <b>мать</b>. <i>n.</i> — mother.
+<small>#217</small> <b>книга</b>. <i>n.</i> — a book.
+<small>#218</small> <b>маленький</b>. <i>adj.</i> — small, little.
+<small>#219</small> <b>улица</b>. <i>n.</i> — street; masterrussian, dot com.
+<small>#220</small> <b>решить</b>. <i>vb.</i> — to decide, solve.
+<small>#221</small> <b>далекий</b>. <i>adj.</i> — distant, remote.
+<small>#222</small> <b>душа</b>. <i>n.</i> — soul, spirit.
+<small>#223</small> <b>чуть</b>. <i>adv.</i> — hardly, slightly.
+<small>#224</small> <b>вернуться</b>. <i>vb.</i> — to return.
+<small>#225</small> <b>утро</b>. <i>n.</i> — morning.
+<small>#226</small> <b>некоторый</b>. <i>pron.</i> — some.
+<small>#227</small> <b>считать</b>. <i>vb.</i> — to count, consider.
+<small>#228</small> <b>вообще</b>. <i>adv.</i> — in general, altogether, on the whole.
+<small>#229</small> <b>помнить</b>. <i>vb.</i> — to remember.
+<small>#230</small> <b>вечер</b>. <i>n.</i> — evening.
+<small>#231</small> <b>никогда</b>. <i>adv.</i> — never.
+<small>#232</small> <b>таки</b>. <i>particle.</i> — after all.
+<small>#233</small> <b>получить</b>. <i>vb.</i> — to receive, get, obtain.
+<small>#234</small> <b>пол</b>. <i>n.</i> — floor; sex.
+<small>#235</small> <b>плечо</b>. <i>n.</i> — shoulder, upper arm.
+<small>#236</small> <b>хоть</b>. <i>conj.</i> — even, if you want, though.
+<small>#237</small> <b>сегодня</b>. <i>adv.</i> — today.
+<small>#238</small> <b>бог</b>. <i>n.</i> — god.
+<small>#239</small> <b>вместе</b>. <i>adv.</i> — together.
+<small>#240</small> <b>взгляд</b>. <i>n.</i> — look, glance; view.
+<small>#241</small> <b>народ</b>. <i>n.</i> — people, nation.
+<small>#242</small> <b>зачем</b>. <i>adv.</i> — what for, why.
+<small>#243</small> <b>советский</b>. <i>adj.</i> — Soviet.
+<small>#244</small> <b>русский</b>. <i>adj.</i> — Russian.
+<small>#245</small> <b>бывать</b>. <i>vb.</i> — be, visit, happen.
+<small>#246</small> <b>полный</b>. <i>adj</i> — full, complete.
+<small>#247</small> <b>дорога</b>. <i>n.</i> — road, way, journey.
+<small>#248</small> <b>палец</b>. <i>n.</i> — finger, toe.
+<small>#249</small> <b>Россия</b>. <i>n.</i> — Russia.
+<small>#250</small> <b>любой</b>. <i>pron.</i> — any, every.
+<small>#251</small> <b>история</b>. <i>n.</i> — history, story, event.
+<small>#252</small> <b>наконец</b>. <i>adv.</i> — at last, finally.
+<small>#253</small> <b>мысль</b>. <i>n.</i> — thought, idea.
+<small>#254</small> <b>узнать</b>. <i>vb.</i> — to know, learn, recognize.
+<small>#255</small> <b>назад</b>. <i>adv.</i> — back, backwards.
+<small>#256</small> <b>общий</b>. <i>adj.</i> — general, common.
+<small>#257</small> <b>заметить</b>. <i>vb.</i> — to notice, observe.
+<small>#258</small> <b>сколько</b>. <i>cardinal</i> — how much, how many.
+<small>#259</small> <b>прошлый</b>. <i>adj.</i> — past.
+<small>#260</small> <b>ходить</b>. <i>vb.</i> — to go, walk.
+<small>#261</small> <b>известный</b>. <i>adj.</i> — well-known, famous.
+<small>#262</small> <b>прийти</b>. <i>vb.</i> — to come, arrive (see #464).
+<small>#263</small> <b>слышать</b>. <i>vb.</i> — to hear.
+<small>#264</small> <b>слушать</b>. <i>vb.</i> — to listen, hear.
+<small>#265</small> <b>бояться</b>. <i>vb.</i> — to be afraid, fear.
+<small>#266</small> <b>сын</b>. <i>n.</i> — son.
+<small>#267</small> <b>нельзя</b>. <i>predicate</i> — it is impossible, can’t.
+<small>#268</small> <b>прямо</b>. <i>adv.</i> — straight, frankly.
+<small>#269</small> <b>долго</b>. <i>adv.</i> — for a long time.
+<small>#270</small> <b>быстро</b>. <i>adv.</i> — fast, quickly.
+<small>#271</small> <b>лес</b>. <i>n.</i> — forest.
+<small>#272</small> <b>похожий</b>. <i>adj.</i> — similar, alike.
+<small>#273</small> <b>пора</b>. <i>n.</i> — time; pore (see #1000).
+<small>#274</small> <b>минута</b>. <i>n.</i> — minute, moment.
+<small>#275</small> <b>жена</b>. <i>n.</i> — wife.
+<small>#276</small> <b>снова</b>. <i>adv.</i> — again.
+<small>#277</small> <b>словно</b>. <i>conj.</i> — as if, like.
+<small>#278</small> <b>глядеть</b>. <i>vb.</i> — to look,  gaze.
+<small>#279</small> <b>оно</b>. <i>pron.</i> — it.
+<small>#280</small> <b>уйти</b>. <i>vb.</i> — to leave, go away.
+<small>#281</small> <b>имя</b>. <i>n.</i> — name.
+<small>#282</small> <b>давно</b>. <i>adv.</i> — long ago.
+<small>#283</small> <b>разговор</b>. <i>n.</i> — talk, conversation.
+<small>#284</small> <b>тело</b>. <i>n.</i> — body.
+<small>#285</small> <b>молодой</b>. <i>adj.</i> — young (see #679); bridegroom (as a noun).
+<small>#286</small> <b>стена</b>. <i>n.</i> — wall.
+<small>#287</small> <b>красный</b>. <i>adj.</i> — red.
+<small>#288</small> <b>сесть</b>. <i>vb.</i> — to sit.
+<small>#289</small> <b>право</b>. <i>n.</i> — right.
+<small>#290</small> <b>старик</b>. <i>n.</i> — old man.
+<small>#291</small> <b>ранний</b>. <i>adj.</i> — early.
+<small>#292</small> <b>хотеться</b>. <i>misc. (impersonal)</i> — want, like.
+<small>#293</small> <b>мама</b>. <i>n.</i> — mummy, mum.
+<small>#294</small> <b>ж</b>. <i>misc.</i> — and, as for, but (see #27).
+<small>#295</small> <b>высокий</b>. <i>adj.</i> — tall, high.
+<small>#296</small> <b>путь</b>. <i>n.</i> — way, track, path.
+<small>#297</small> <b>поэтому</b>. <i>adv.</i> — therefore.
+<small>#298</small> <b>совершенно</b>. <i>adv.</i> — absolutely, quite.
+<small>#299</small> <b>кроме</b>. <i>prep.</i> — except, besides.
+<small>#300</small> <b>тысяча</b>. <i>cardinal number</i> — a thousand.
+<small>#301</small> <b>пять</b>. <i>cardinal number</i> — five.
+<small>#302</small> <b>брать</b>. <i>vb.</i> — to take; hire.
+<small>#303</small> <b>написать</b>. <i>vb.</i> — to write.
+<small>#304</small> <b>целый</b>. <i>adj.</i> — intact, whole, entire.
+<small>#305</small> <b>огромный</b>. <i>adj.</i> — huge, enormous.
+<small>#306</small> <b>начинать</b>. <i>vb.</i> — to begin (see #413).
+<small>#307</small> <b>спина</b>. <i>n.</i> — back.
+<small>#308</small> <b>читать</b>. <i>vb.</i> — to read.
+<small>#309</small> <b>пусть</b>. <i>conj, particle.</i> — let’s, though.
+<small>#310</small> <b>язык</b>. <i>n.</i> — tongue, language.
+<small>#311</small> <b>точно</b>. <i>adv.</i> — exactly.
+<small>#312</small> <b>среди</b>. <i>prep.</i> — among.
+<small>#313</small> <b>чувствовать</b>. <i>vb.</i> — to feel.
+<small>#314</small> <b>оставаться</b>. <i>vb.</i> — to remain, stay (see #173).
+<small>#315</small> <b>вести</b>. <i>vb.</i> — to lead.
+<small>#316</small> <b>иногда</b>. <i>adv.</i> — sometimes.
+<small>#317</small> <b>мальчик</b>. <i>n.</i> — boy.
+<small>#318</small> <b>успеть</b>. <i>vb.</i> — to be in time, be successful.
+<small>#319</small> <b>настоящий</b>. <i>adj.</i> — present;real, true.
+<small>#320</small> <b>живой</b>. <i>adj.</i> — living, live, lively.
+<small>#321</small> <b>смерть</b>. <i>n.</i> — death.
+<small>#322</small> <b>продолжать</b>. <i>vb.</i> — to continue.
+<small>#323</small> <b>девушка</b>. <i>n.</i> — girl, miss (see #524).
+<small>#324</small> <b>месяц</b>. <i>n.</i> — month.
+<small>#325</small> <b>ко</b>. <i>prep.</i> — to, towards, by (see #19).
+<small>#326</small> <b>забыть</b>. <i>vb.</i> — to forget.
+<small>#327</small> <b>вокруг</b>. <i>prep.</i> — around.
+<small>#328</small> <b>письмо</b>. <i>n.</i> — letter.
+<small>#329</small> <b>власть</b>. <i>n.</i> — power.
+<small>#330</small> <b>чёрный</b>. <i>adj.</i> — black (see #456).
+<small>#331</small> <b>пройти</b>. <i>vb.</i> — to pass, go by, be over (see #543).
+<small>#332</small> <b>появиться</b>. <i>vb.</i> — to appear, show up (see #699).
+<small>#333</small> <b>воздух</b>. <i>n.</i> — air.
+<small>#334</small> <b>разный</b>. <i>adj.</i> — different.
+<small>#335</small> <b>небо</b>. <i>n.</i> — sky.
+<small>#336</small> <b>просить</b>. <i>vb.</i> — to ask.
+<small>#337</small> <b>брат</b>. <i>n.</i> — brother.
+<small>#338</small> <b>собственный</b>. <i>adj.</i> — one’s own; masterrussian, dot com.
+<small>#339</small> <b>отношение</b>. <i>n.</i> — relationship, attitude.
+<small>#340</small> <b>затем</b>. <i>adv.</i> — then, after that.
+<small>#341</small> <b>пытаться</b>. <i>vb.</i> — to try.
+<small>#342</small> <b>показать</b>. <i>vb.</i> — to show, display.
+<small>#343</small> <b>вспомнить</b>. <i>vb.</i> — to remember, recall.
+<small>#344</small> <b>система</b>. <i>n.</i> — system.
+<small>#345</small> <b>сердце</b>. <i>n.</i> — heart.
+<small>#346</small> <b>квартира</b>. <i>n.</i> — flat, apartment.
+<small>#347</small> <b>держать</b>. <i>vb.</i> — to hold, keep.
+<small>#348</small> <b>образ</b>. <i>n.</i> — shape, form, image.
+<small>#349</small> <b>любовь</b>. <i>n.</i> — love.
+<small>#350</small> <b>солдат</b>. <i>n.</i> — soldier.
+<small>#351</small> <b>откуда</b>. <i>adv.</i> — where… from.
+<small>#352</small> <b>также</b>. <i>misc.</i> — also, as well, too.
+<small>#353</small> <b>называть</b>. <i>vb.</i> — to call, name, (See #597).
+<small>#354</small> <b>третий</b>. <i>ordinal number</i> — third.
+<small>#355</small> <b>выходить</b>. <i>vb.</i> — to go out; nurse (see #176).
+<small>#356</small> <b>вроде</b>. <i>prep., particle.</i> — like, not unlike.
+<small>#357</small> <b>уходить</b>. <i>vb.</i> — to leave, go away.
+<small>#358</small> <b>хозяин</b>. <i>n.</i> — master, boss, host.
+<small>#359</small> <b>поднять</b>. <i>vb.</i> — to lift, raise.
+<small>#360</small> <b>особенно</b>. <i>adv.</i> — especially, particularly.
+<small>#361</small> <b>подойти</b>. <i>vb.</i> — to approach, come up(See #798).
+<small>#362</small> <b>начальник</b>. <i>n.</i> — chief, head, superior.
+<small>#363</small> <b>четыре</b>. <i>cardinal number</i> — four.
+<small>#364</small> <b>бросить</b>. <i>vb.</i> — to throw.
+<small>#365</small> <b>школа</b>. <i>n.</i> — school.
+<small>#366</small> <b>парень</b>. <i>n.</i> — boy, fellow, guy.
+<small>#367</small> <b>кровь</b>. <i>n.</i> — blood.
+<small>#368</small> <b>двадцать</b>. <i>cardinal numberinal number</i> — twenty.
+<small>#369</small> <b>солнце</b>. <i>n.</i> — sun.
+<small>#370</small> <b>чтоб</b>. <i>misc.</i> — that, in order that, (See #74).
+<small>#371</small> <b>послать</b>. <i>vb.</i> — to send, dispatch.
+<small>#372</small> <b>находиться</b>. <i>vb.</i> — to be found, turn up.
+<small>#373</small> <b>ребята</b>. <i>n.</i> — guys, children.
+<small>#374</small> <b>поставить</b>. <i>vb.</i> — to put, place, set.
+<small>#375</small> <b>встать</b>. <i>vb.</i> — to get up, rise, stand up.
+<small>#376</small> <b>например</b>. <i>misc.</i> — for example, for instance.
+<small>#377</small> <b>спрашивать</b>. <i>vb.</i> — to ask, inquire.
+<small>#378</small> <b>мужчина</b>. <i>n.</i> — man, male.
+<small>#379</small> <b>равно</b>. <i>adv.</i> — alike, in like manner.
+<small>#380</small> <b>нос</b>. <i>n.</i> — nose.
+<small>#381</small> <b>мало</b>. <i>adv.</i> — little, few, (See #630).
+<small>#382</small> <b>внимание</b>. <i>n.</i> — attention.
+<small>#383</small> <b>оба</b>. <i>numeral</i> — both.
+<small>#384</small> <b>ухо</b>. <i>n.</i> — ear.
+<small>#385</small> <b>туда</b>. <i>adv.</i> — there.
+<small>#386</small> <b>сюда</b>. <i>adv.</i> — here.
+<small>#387</small> <b>играть</b>. <i>vb.</i> — to play.
+<small>#388</small> <b>следовать</b>. <i>vb.</i> — to follow, come next.
+<small>#389</small> <b>рассказать</b>. <i>vb.</i> — to tell, narrate(See #403).
+<small>#390</small> <b>великий</b>. <i>adj.</i> — great.
+<small>#391</small> <b>капитан</b>. <i>n.</i> — captain, master.
+<small>#392</small> <b>шаг</b>. <i>n.</i> — step.
+<small>#393</small> <b>неделя</b>. <i>n.</i> — week.
+<small>#394</small> <b>спать</b>. <i>vb.</i> — to sleep.
+<small>#395</small> <b>оставить</b>. <i>vb.</i> — to leave, abandon.
+<small>#396</small> <b>войти</b>. <i>vb.</i> — to enter, come in.
+<small>#397</small> <b>длинный</b>. <i>adj.</i> — long.
+<small>#398</small> <b>чувство</b>. <i>n.</i> — feeling.
+<small>#399</small> <b>молчать</b>. <i>vb.</i> — to keep silence.
+<small>#400</small> <b>слишком</b>. <i>adv.</i> — too, too much.
+<small>#401</small> <b>отвечать</b>. <i>vb.</i> — to answer, reply, (See #190).
+<small>#402</small> <b>становиться</b>. <i>vb.</i> — to stand; to become.
+<small>#403</small> <b>рассказывать</b>. <i>vb.</i> — to tell, narrate, (See #392).
+<small>#404</small> <b>берег</b>. <i>n.</i> — bank, shore,  coast.
+<small>#405</small> <b>семья</b>. <i>n.</i> — family.
+<small>#406</small> <b>остановиться</b>. <i>vb.</i> — to stop.
+<small>#407</small> <b>генерал</b>. <i>n.</i> — general.
+<small>#408</small> <b>момент</b>. <i>n.</i> — moment, instant.
+<small>#409</small> <b>десять</b>. <i>cardinal number</i> — ten.
+<small>#410</small> <b>начать</b>. <i>vb.</i> — to begin(See #309).
+<small>#411</small> <b>тяжёлый</b>. <i>adj.</i> — heavy.
+<small>#412</small> <b>личный</b>. <i>adj.</i> — personal.
+<small>#413</small> <b>искать</b>. <i>vb.</i> — to search.
+<small>#414</small> <b>верить</b>. <i>vb.</i> — to believe; masterrussian, dot com.
+<small>#415</small> <b>группа</b>. <i>n.</i> — group.
+<small>#416</small> <b>немного</b>. <i>adv.</i> — a little.
+<small>#417</small> <b>впрочем</b>. <i>conj.</i> — however, though.
+<small>#418</small> <b>видно</b>. <i>misc.</i> — evidently, obviously.
+<small>#419</small> <b>являться</b>. <i>vb.</i> — to appear.
+<small>#420</small> <b>муж</b>. <i>n.</i> — husband.
+<small>#421</small> <b>разве</b>. <i>particle.</i> — really?, perhaps.
+<small>#422</small> <b>движение</b>. <i>n.</i> — movement.
+<small>#423</small> <b>действительно</b>. <i>adv.</i> — indeed, really.
+<small>#424</small> <b>труд</b>. <i>n.</i> — labour, work.
+<small>#425</small> <b>тихо</b>. <i>adv.</i> — quietly, softly, slowly.
+<small>#426</small> <b>знакомый</b>. <i>adj.</i> — familiar, acquainted.
+<small>#427</small> <b>газета</b>. <i>n.</i> — newspaper.
+<small>#428</small> <b>помощь</b>. <i>n.</i> — help.
+<small>#429</small> <b>сильный</b>. <i>adj.</i> — strong, powerful.
+<small>#430</small> <b>скорый</b>. <i>adj.</i> — quick, fast.
+<small>#431</small> <b>собака</b>. <i>n.</i> — dog.
+<small>#432</small> <b>ответ</b>. <i>n.</i> — answer, reply.
+<small>#433</small> <b>снег</b>. <i>n.</i> — snow.
+<small>#434</small> <b>сон</b>. <i>n.</i> — dream.
+<small>#435</small> <b>смысл</b>. <i>n.</i> — sense, meaning, purpose.
+<small>#436</small> <b>смочь</b>. <i>vb.</i> — to be able.
+<small>#437</small> <b>следующий</b>. <i>adj.</i> — next, following.
+<small>#438</small> <b>бежать</b>. <i>vb.</i> — to run, hurry.
+<small>#439</small> <b>двор</b>. <i>n.</i> — yard, court.
+<small>#440</small> <b>форма</b>. <i>n.</i> — form, shape, uniform.
+<small>#441</small> <b>простой</b>. <i>adj.</i> — simple, easy, plain.
+<small>#442</small> <b>приехать</b>. <i>vb.</i> — to arrive, come.
+<small>#443</small> <b>иной</b>. <i>pron.</i> — different, other.
+<small>#444</small> <b>кричать</b>. <i>vb.</i> — to cry, shout(See #656).
+<small>#445</small> <b>возможность</b>. <i>n.</i> — possibility, opportunity, chance.
+<small>#446</small> <b>порядок</b>. <i>n.</i> — order.
+<small>#447</small> <b>зеленый</b>. <i>adj.</i> — green.
+<small>#448</small> <b>грудь</b>. <i>n.</i> — breast, chest.
+<small>#449</small> <b>угол</b>. <i>n.</i> — corner, angle.
+<small>#450</small> <b>открыть</b>. <i>vb.</i> — to open.
+<small>#451</small> <b>происходить</b>. <i>vb.</i> — to happen, occur, take place.
+<small>#452</small> <b>дерево</b>. <i>n.</i> — tree.
+<small>#453</small> <b>черный</b>. <i>n.</i> — black (as in "she wears black")(See #333).
+<small>#454</small> <b>век</b>. <i>n.</i> — century, age.
+<small>#455</small> <b>ладно</b>. <i>adv.</i> — in harmony, well, all right.
+<small>#456</small> <b>ехать</b>. <i>vb. of motion</i> — to go, ride, drive, travel.
+<small>#457</small> <b>немец</b>. <i>n.</i> — German.
+<small>#458</small> <b>карман</b>. <i>n.</i> — pocket.
+<small>#459</small> <b>губа</b>. <i>n.</i> — lip.
+<small>#460</small> <b>дядя</b>. <i>n.</i> — uncle.
+<small>#461</small> <b>приходить</b>. <i>vb.</i> — to come, arrive(See #253).
+<small>#462</small> <b>часто</b>. <i>adv.</i> — often.
+<small>#463</small> <b>домой</b>. <i>adv.</i> — home(as in "she came home").
+<small>#464</small> <b>огонь</b>. <i>n.</i> — fire.
+<small>#465</small> <b>писатель</b>. <i>n.</i> — writer.
+<small>#466</small> <b>армия</b>. <i>n.</i> — army.
+<small>#467</small> <b>состояние</b>. <i>n.</i> — state, condition; fortune.
+<small>#468</small> <b>зуб</b>. <i>n.</i> — tooth.
+<small>#469</small> <b>очередь</b>. <i>n.</i> — line, queue, turn.
+<small>#470</small> <b>кой</b>. <i>pron.</i> — which (old-fashioned, literary); mostly found in set expressions: ни в ко́ем слу́чае, ни ко́им о́бразом, в кои ве́ки, на кой чёрт?.
+<small>#471</small> <b>против</b>. <i>prep.</i> — against, opposite, contrary to.
+<small>#472</small> <b>камень</b>. <i>n.</i> — stone.
+<small>#473</small> <b>наверное</b>. <i>adv.</i> — probably, most likely(See #972).
+<small>#474</small> <b>показаться</b>. <i>vb.</i> — to appear, come in sight.
+<small>#475</small> <b>ветер</b>. <i>n.</i> — wind.
+<small>#476</small> <b>гость</b>. <i>n.</i> — guest.
+<small>#477</small> <b>попасть</b>. <i>vb.</i> — to hit; to find oneself.
+<small>#478</small> <b>общество</b>. <i>n.</i> — society.
+<small>#479</small> <b>сначала</b>. <i>adv.</i> — at first, from the beginning.
+<small>#480</small> <b>либо</b>. <i>conj.</i> — or.
+<small>#481</small> <b>поехать</b>. <i>vb.</i> — to depart, set off.
+<small>#482</small> <b>услышать</b>. <i>vb.</i> — to hear.
+<small>#483</small> <b>уметь</b>. <i>vb.</i> — to be able, know, can.
+<small>#484</small> <b>случиться</b>. <i>vb.</i> — to happen.
+<small>#485</small> <b>странный</b>. <i>adj.</i> — strange.
+<small>#486</small> <b>принять</b>. <i>vb.</i> — to take, admit, accept(See #643).
+<small>#487</small> <b>рота</b>. <i>n.</i> — company (military).
+<small>#488</small> <b>закон</b>. <i>n.</i> — law, act, statue.
+<small>#489</small> <b>короткий</b>. <i>adj.</i> — short.
+<small>#490</small> <b>море</b>. <i>n.</i> — sea.
+<small>#491</small> <b>собираться</b>. <i>vb.</i> — to gather together, assemble; intend(See #981).
+<small>#492</small> <b>темный</b>. <i>adj.</i> — dark.
+<small>#493</small> <b>гора</b>. <i>n.</i> — mountain, hill.
+<small>#494</small> <b>врач</b>. <i>n.</i> — physician, doctor.
+<small>#495</small> <b>край</b>. <i>n.</i> — border, edge; land, country.
+<small>#496</small> <b>стараться</b>. <i>vb.</i> — to try, endeavour.
+<small>#497</small> <b>единственный</b>. <i>adj.</i> — only, sole.
+<small>#498</small> <b>река</b>. <i>n.</i> — river.
+<small>#499</small> <b>военный</b>. <i>adj.</i> — military.
+<small>#500</small> <b>подняться</b>. <i>vb.</i> — to rise, climb.
+<small>#501</small> <b>страшный</b>. <i>adj.</i> — terrible, frightful.
+<small>#502</small> <b>вполне</b>. <i>adv.</i> — quite, fully.
+<small>#503</small> <b>звать</b>. <i>vb.</i> — to call.
+<small>#504</small> <b>произойти</b>. <i>vb.</i> — to happen, occur, take place.
+<small>#505</small> <b>вперед</b>. <i>prep.</i> — forward.
+<small>#506</small> <b>медленно</b>. <i>adv.</i> — slowly.
+<small>#507</small> <b>возле</b>. <i>prep.</i> — by, near, close by.
+<small>#508</small> <b>никак</b>. <i>adv.</i> — in now way, by no means.
+<small>#509</small> <b>заниматься</b>. <i>vb.</i> — to be occupied, engage.
+<small>#510</small> <b>действие</b>. <i>n.</i> — action, effect.
+<small>#511</small> <b>довольно</b>. <i>adv.</i> — enough; rather.
+<small>#512</small> <b>вещь</b>. <i>n.</i> — thing.
+<small>#513</small> <b>необходимый</b>. <i>adj.</i> — necessary.
+<small>#514</small> <b>ход</b>. <i>n.</i> — move.
+<small>#515</small> <b>боль</b>. <i>n.</i> — pain.
+<small>#516</small> <b>судьба</b>. <i>n.</i> — fate, fortune, destiny.
+<small>#517</small> <b>причина</b>. <i>n.</i> — cause, reason, motive.
+<small>#518</small> <b>положить</b>. <i>vb.</i> — to lay down, put down, place.
+<small>#519</small> <b>едва</b>. <i>adv.</i> — hardly, just, barely.
+<small>#520</small> <b>мера</b>. <i>n.</i> — measure, step.
+<small>#521</small> <b>девочка</b>. <i>n.</i> — girl, little girl(See #326).
+<small>#522</small> <b>лёгкий</b>. <i>adj.</i> — light, easy.
+<small>#523</small> <b>волос</b>. <i>n.</i> — hair.
+<small>#524</small> <b>купить</b>. <i>vb.</i> — to buy, purchase.
+<small>#525</small> <b>номер</b>. <i>n.</i> — number, size, room, issue.
+<small>#526</small> <b>основной</b>. <i>adj.</i> — main.
+<small>#527</small> <b>широкий</b>. <i>adj.</i> — wide.
+<small>#528</small> <b>умереть</b>. <i>vb.</i> — to die.
+<small>#529</small> <b>далеко</b>. <i>adv.</i> — far, far off.
+<small>#530</small> <b>добрый</b>. <i>adj.</i> — kind.
+<small>#531</small> <b>глава</b>. <i>n.</i> — head, chief.
+<small>#532</small> <b>лучший</b>. <i>adj.</i> — better, best.
+<small>#533</small> <b>серый</b>. <i>adj.</i> — grey; dull.
+<small>#534</small> <b>пить</b>. <i>vb.</i> — to drink.
+<small>#535</small> <b>командир</b>. <i>n.</i> — commander, commanding officer.
+<small>#536</small> <b>красивый</b>. <i>adj.</i> — beautiful; masterrussian, dot com.
+<small>#537</small> <b>плохо</b>. <i>adv.</i> — badly.
+<small>#538</small> <b>проблема</b>. <i>n.</i> — problem, issue.
+<small>#539</small> <b>страх</b>. <i>n.</i> — fear.
+<small>#540</small> <b>партия</b>. <i>n.</i> — party.
+<small>#541</small> <b>черта</b>. <i>n.</i> — line, boundary; trait.
+<small>#542</small> <b>снять</b>. <i>vb.</i> — to take away, take off;photograph.
+<small>#543</small> <b>бумага</b>. <i>n.</i> — paper.
+<small>#544</small> <b>герой</b>. <i>n.</i> — hero.
+<small>#545</small> <b>пара</b>. <i>n.</i> — pair, couple.
+<small>#546</small> <b>государство</b>. <i>n.</i> — State.
+<small>#547</small> <b>деревня</b>. <i>n.</i> — village, country.
+<small>#548</small> <b>проходить</b>. <i>vb.</i> — to pass, go;study(See #334).
+<small>#549</small> <b>начаться</b>. <i>vb.</i> — to begin.
+<small>#550</small> <b>средство</b>. <i>n.</i> — means, remedy.
+<small>#551</small> <b>положение</b>. <i>n.</i> — position, posture, condition, state.
+<small>#552</small> <b>связь</b>. <i>n.</i> — tie, bond; connection, relation.
+<small>#553</small> <b>скоро</b>. <i>adv.</i> — quickly, fast, soon.
+<small>#554</small> <b>небольшой</b>. <i>adj.</i> — small, not great.
+<small>#555</small> <b>представлять</b>. <i>vb.</i> — to present, introduce, imagine(See #586).
+<small>#556</small> <b>завтра</b>. <i>adv.</i> — tomorrow.
+<small>#557</small> <b>объяснить</b>. <i>vb.</i> — to explain.
+<small>#558</small> <b>обычно</b>. <i>adv.</i> — usually.
+<small>#559</small> <b>произнести</b>. <i>vb.</i> — to pronounce, say, utter.
+<small>#560</small> <b>человеческий</b>. <i>adj.</i> — human.
+<small>#561</small> <b>нравиться</b>. <i>vb.</i> — to please, like.
+<small>#562</small> <b>однажды</b>. <i>adv.</i> — once, one day.
+<small>#563</small> <b>мимо</b>. <i>prep.</i> — past, by.
+<small>#564</small> <b>ясно</b>. <i>adv.</i> — clear, clearly.
+<small>#565</small> <b>существовать</b>. <i>vb.</i> — to exist, to be.
+<small>#566</small> <b>класс</b>. <i>n.</i> — class.
+<small>#567</small> <b>удаться</b>. <i>vb.</i> — turn out well, succeed, manage.
+<small>#568</small> <b>иначе</b>. <i>adv.</i> — otherwise, differentlyl.
+<small>#569</small> <b>цель</b>. <i>n.</i> — goal, object, target.
+<small>#570</small> <b>речь</b>. <i>n.</i> — speech.
+<small>#571</small> <b>прийтись</b>. <i>vb.</i> — to fit, fall; have to.
+<small>#572</small> <b>чистый</b>. <i>adj.</i> — clean, pure.
+<small>#573</small> <b>знать</b>. <i>n.</i> — to know(See #51).
+<small>#574</small> <b>прежний</b>. <i>adj.</i> — former.
+<small>#575</small> <b>профессор</b>. <i>n.</i> — professor.
+<small>#576</small> <b>господин</b>. <i>n.</i> — gentleman, Mr..
+<small>#577</small> <b>счастье</b>. <i>n.</i> — happiness, luck.
+<small>#578</small> <b>худой</b>. <i>adj.</i> — thin, skinny; masterrussian.com.
+<small>#579</small> <b>дух</b>. <i>n.</i> — spirit.
+<small>#580</small> <b>план</b>. <i>n.</i> — plan.
+<small>#581</small> <b>пустой</b>. <i>adj.</i> — empty, hollow; idle.
+<small>#582</small> <b>зал</b>. <i>n.</i> — hall.
+<small>#583</small> <b>представить</b>. <i>vb.</i> — to presetn, produce, introduce(See #558).
+<small>#584</small> <b>особый</b>. <i>adj.</i> — special.
+<small>#585</small> <b>директор</b>. <i>n.</i> — director, manager.
+<small>#586</small> <b>бывший</b>. <i>adj.</i> — former, ex-.
+<small>#587</small> <b>память</b>. <i>n.</i> — memory.
+<small>#588</small> <b>близкий</b>. <i>adj.</i> — near, similar; intimate.
+<small>#589</small> <b>чужой</b>. <i>adj.</i> — somebody else’s;strange, foreign.
+<small>#590</small> <b>результат</b>. <i>n.</i> — result, outcome.
+<small>#591</small> <b>больной</b>. <i>adj.</i> — sick.
+<small>#592</small> <b>данный</b>. <i>adj.</i> — given, present.
+<small>#593</small> <b>кстати</b>. <i>adv.</i> — to the point, at the same time.
+<small>#594</small> <b>назвать</b>. <i>vb.</i> — to call, name(See #356).
+<small>#595</small> <b>след</b>. <i>n.</i> — track, footprint.
+<small>#596</small> <b>условие</b>. <i>n.</i> — condition, term.
+<small>#597</small> <b>прежде</b>. <i>prep.</i> — before.
+<small>#598</small> <b>трудно</b>. <i>adv.</i> — with difficulty.
+<small>#599</small> <b>улыбнуться</b>. <i>vb.</i> — to smile(See #599).
+<small>#600</small> <b>толстый</b>. <i>adj.</i> — thick, heavy, fat.
+<small>#601</small> <b>картина</b>. <i>n.</i> — picture, painting.
+<small>#602</small> <b>вместо</b>. <i>prep.</i> — instead.
+<small>#603</small> <b>процесс</b>. <i>n.</i> — process.
+<small>#604</small> <b>легко</b>. <i>adv.</i> — easily, lightly.
+<small>#605</small> <b>центр</b>. <i>n.</i> — center.
+<small>#606</small> <b>подобный</b>. <i>adj.</i> — similar, like.
+<small>#607</small> <b>возможно</b>. <i>adv.</i> — as… as possible(as in "as soon as possible").
+<small>#608</small> <b>около</b>. <i>prep.</i> — by, near.
+<small>#609</small> <b>смеяться</b>. <i>vb.</i> — to laugh.
+<small>#610</small> <b>сто</b>. <i>cardinal numberinal number</i> — hundred.
+<small>#611</small> <b>старший</b>. <i>adj.</i> — elder, senior.
+<small>#612</small> <b>хватать</b>. <i>vb.</i> — to snatch, seize; be sufficient(See #636).
+<small>#613</small> <b>число</b>. <i>n.</i> — number.
+<small>#614</small> <b>всякое</b>. <i>pron.</i> — any, every.
+<small>#615</small> <b>рубль</b>. <i>n.</i> — ruble.
+<small>#616</small> <b>почувствовать</b>. <i>vb.</i> — to feel.
+<small>#617</small> <b>принести</b>. <i>vb.</i> — to bring; masterrussian.
+<small>#618</small> <b>вера</b>. <i>n.</i> — faith, belief.
+<small>#619</small> <b>вовсе</b>. <i>adv.</i> — quiet; not … at all.
+<small>#620</small> <b>удар</b>. <i>n.</i> — blow, stroke.
+<small>#621</small> <b>сквозь</b>. <i>prep.</i> — through.
+<small>#622</small> <b>колено</b>. <i>n.</i> — knee.
+<small>#623</small> <b>согласиться</b>. <i>vb.</i> — to agree, consent.
+<small>#624</small> <b>мало</b>. <i>cardinal numberinal number</i> — little, few, not enough(See #384).
+<small>#625</small> <b>коридор</b>. <i>n.</i> — corridor, passage.
+<small>#626</small> <b>мужик</b>. <i>n.</i> — muzhik, man.
+<small>#627</small> <b>правый</b>. <i>adj.</i> — right.
+<small>#628</small> <b>автор</b>. <i>n.</i> — author.
+<small>#629</small> <b>холодный</b>. <i>adj.</i> — cold, cool.
+<small>#630</small> <b>будущее</b>. <i>n.</i> — future.
+<small>#631</small> <b>сей</b>. <i>pron.</i> — this.
+<small>#632</small> <b>встреча</b>. <i>n.</i> — meeting, reception.
+<small>#633</small> <b>кабинет</b>. <i>n.</i> — study, room, office suite.
+<small>#634</small> <b>документ</b>. <i>n.</i> — document.
+<small>#635</small> <b>самолет</b>. <i>n.</i> — aircraft, aeroplane.
+<small>#636</small> <b>вниз</b>. <i>adv.</i> — down, downwards.
+<small>#637</small> <b>принимать</b>. <i>vb.</i> — to take, admit, accept (See #481).
+<small>#638</small> <b>многие</b>. <i>pron.</i> — many.
+<small>#639</small> <b>рассказ</b>. <i>n.</i> — story.
+<small>#640</small> <b>хлеб</b>. <i>n.</i> — bread.
+<small>#641</small> <b>игра</b>. <i>n.</i> — game, play.
+<small>#642</small> <b>убить</b>. <i>vb.</i> — to kill.
+<small>#643</small> <b>родной</b>. <i>adj.</i> — own, native, dear.
+<small>#644</small> <b>открытый</b>. <i>adj.</i> — open.
+<small>#645</small> <b>менее</b>. <i>adv.</i> — less.
+<small>#646</small> <b>предложить</b>. <i>vb.</i> — to offer, propose, suggest.
+<small>#647</small> <b>желтый</b>. <i>adj.</i> — yellow.
+<small>#648</small> <b>развитие</b>. <i>n.</i> — development.
+<small>#649</small> <b>телефон</b>. <i>n.</i> — telephone.
+<small>#650</small> <b>крикнуть</b>. <i>vb.</i> — to cry, shout(See #447).
+<small>#651</small> <b>трубка</b>. <i>n.</i> — tube, roll, pipe.
+<small>#652</small> <b>враг</b>. <i>n.</i> — enemy.
+<small>#653</small> <b>показывать</b>. <i>vb.</i> — to show, display.
+<small>#654</small> <b>двое</b>. <i>cardinal number</i> — two.
+<small>#655</small> <b>доктор</b>. <i>n.</i> — doctor.
+<small>#656</small> <b>ладонь</b>. <i>n.</i> — palm.
+<small>#657</small> <b>выпить</b>. <i>vb.</i> — to drink.
+<small>#658</small> <b>хватить</b>. <i>vb.</i> — to snatch, seize, suffice(See #618).
+<small>#659</small> <b>попросить</b>. <i>vb.</i> — to ask.
+<small>#660</small> <b>наука</b>. <i>n.</i> — science.
+<small>#661</small> <b>лейтенант</b>. <i>n.</i> — lieutenant.
+<small>#662</small> <b>служба</b>. <i>n.</i> — service, work.
+<small>#663</small> <b>приходиться</b>. <i>vb.</i> — to fit, fall; have to.
+<small>#664</small> <b>привести</b>. <i>vb.</i> — to bring.
+<small>#665</small> <b>сорок</b>. <i>cardinal number</i> — forty.
+<small>#666</small> <b>счет</b>. <i>n.</i> — bill, account.
+<small>#667</small> <b>возвращаться</b>. <i>vb.</i> — to return.
+<small>#668</small> <b>золотой</b>. <i>adj.</i> — golden.
+<small>#669</small> <b>спокойно</b>. <i>adv.</i> — quietly.
+<small>#670</small> <b>оказываться</b>. <i>vb.</i> — to turn out, find oneself(See #183).
+<small>#671</small> <b>крупный</b>. <i>adj.</i> — large, big, prominent.
+<small>#672</small> <b>решение</b>. <i>n.</i> — decision, conclusion.
+<small>#673</small> <b>молодая</b>. <i>n.</i> — bride (See #288); young (as an adjective).
+<small>#674</small> <b>тридцать</b>. <i>cardinal number</i> — thirty.
+<small>#675</small> <b>вызвать</b>. <i>vb.</i> — to call, send(See #821).
+<small>#676</small> <b>требовать</b>. <i>vb.</i> — to demand.
+<small>#677</small> <b>компания</b>. <i>n.</i> — company.
+<small>#678</small> <b>частый</b>. <i>adj.</i> — frequent.
+<small>#679</small> <b>российский</b>. <i>adj.</i> — Russian.
+<small>#680</small> <b>рабочий</b>. <i>adj.</i> — working.
+<small>#681</small> <b>кухня</b>. <i>n.</i> — kitchen.
+<small>#682</small> <b>роман</b>. <i>n.</i> — novel, romance.
+<small>#683</small> <b>синий</b>. <i>adj.</i> — dark blue.
+<small>#684</small> <b>потерять</b>. <i>vb.</i> — to lose.
+<small>#685</small> <b>течение</b>. <i>n.</i> — current.
+<small>#686</small> <b>метр</b>. <i>n.</i> — meter, metre.
+<small>#687</small> <b>достать</b>. <i>vb.</i> — to reach; get, obtain.
+<small>#688</small> <b>железный</b>. <i>adj.</i> — ferreous, iron.
+<small>#689</small> <b>институт</b>. <i>n.</i> — institute.
+<small>#690</small> <b>сообщить</b>. <i>vb.</i> — to report, let know.
+<small>#691</small> <b>интерес</b>. <i>n.</i> — interes.
+<small>#692</small> <b>обычный</b>. <i>adj.</i> — usual, ordinary.
+<small>#693</small> <b>появляться</b>. <i>vb.</i> — to appear, show up(See #335).
+<small>#694</small> <b>местный</b>. <i>adj.</i> — local.
+<small>#695</small> <b>остальной</b>. <i>adj.</i> — remaining, the rest of.
+<small>#696</small> <b>половина</b>. <i>n.</i> — half.
+<small>#697</small> <b>московский</b>. <i>adj.</i> — Moscow.
+<small>#698</small> <b>шесть</b>. <i>cardinal number</i> — six.
+<small>#699</small> <b>получиться</b>. <i>vb.</i> — to come, arrive, turn out.
+<small>#700</small> <b>столько</b>. <i>adv.</i> — so much, so many.
+<small>#701</small> <b>бой</b>. <i>n.</i> — battle, fight, combat.
+<small>#702</small> <b>шея</b>. <i>n.</i> — neck.
+<small>#703</small> <b>вон</b>. <i>adv.</i> — out.
+<small>#704</small> <b>идея</b>. <i>n.</i> — idea.
+<small>#705</small> <b>видимо</b>. <i>adv.</i> — apparently, seemingly.
+<small>#706</small> <b>достаточно</b>. <i>adv.</i> — enough, sufficiently.
+<small>#707</small> <b>провести</b>. <i>vb.</i> — to accompany, set off; conduct; spend (See #973).
+<small>#708</small> <b>качество</b>. <i>n.</i> — quality.
+<small>#709</small> <b>трава</b>. <i>n.</i> — grass.
+<small>#710</small> <b>упасть</b>. <i>vb.</i> — to fall.
+<small>#711</small> <b>сознание</b>. <i>n.</i> — consciousness.
+<small>#712</small> <b>родитель</b>. <i>n.</i> — parent; masterrussian, dot, com.
+<small>#713</small> <b>простить</b>. <i>vb.</i> — to forgive.
+<small>#714</small> <b>бить</b>. <i>vb.</i> — to beat, hit.
+<small>#715</small> <b>чай</b>. <i>n.</i> — tea.
+<small>#716</small> <b>поздний</b>. <i>adj.</i> — late.
+<small>#717</small> <b>кивнуть</b>. <i>vb.</i> — to nod.
+<small>#718</small> <b>род</b>. <i>n.</i> — family, clan, generation.
+<small>#719</small> <b>исчезнуть</b>. <i>vb.</i> — to disappear.
+<small>#720</small> <b>тонкий</b>. <i>adj.</i> — thin.
+<small>#721</small> <b>теплый</b>. <i>adj.</i> — warm.
+<small>#722</small> <b>звук</b>. <i>n.</i> — sound.
+<small>#723</small> <b>отдать</b>. <i>vb.</i> — to return, give back.
+<small>#724</small> <b>магазин</b>. <i>n.</i> — shop, store.
+<small>#725</small> <b>президент</b>. <i>n.</i> — president; director.
+<small>#726</small> <b>поэт</b>. <i>n.</i> — poet.
+<small>#727</small> <b>спасибо</b>. <i>n.</i> — gratitude, thanks.
+<small>#728</small> <b>болезнь</b>. <i>n.</i> — illness, sickness, disease.
+<small>#729</small> <b>немецкий</b>. <i>adj.</i> — German.
+<small>#730</small> <b>помочь</b>. <i>vb.</i> — to help (See #857).
+<small>#731</small> <b>кожа</b>. <i>n.</i> — skin.
+<small>#732</small> <b>лист</b>. <i>n.</i> — leaf, sheet.
+<small>#733</small> <b>слать</b>. <i>vb.</i> — to send.
+<small>#734</small> <b>вспоминать</b>. <i>vb.</i> — to remember, recall.
+<small>#735</small> <b>прекрасный</b>. <i>adj.</i> — beautiful, fine.
+<small>#736</small> <b>важный</b>. <i>adj.</i> — important.
+<small>#737</small> <b>надежда</b>. <i>n.</i> — hope.
+<small>#738</small> <b>дед</b>. <i>n.</i> — grandfather, old man.
+<small>#739</small> <b>сильно</b>. <i>adv.</i> — strongly.
+<small>#740</small> <b>верный</b>. <i>adj.</i> — correct; faithful; reliable.
+<small>#741</small> <b>литература</b>. <i>n.</i> — literature.
+<small>#742</small> <b>оружие</b>. <i>n.</i> — weapon.
+<small>#743</small> <b>готовый</b>. <i>adj.</i> — ready.
+<small>#744</small> <b>запах</b>. <i>n.</i> — smell, odour, scent.
+<small>#745</small> <b>неожиданно</b>. <i>adv.</i> — unexpectedly, suddenly.
+<small>#746</small> <b>вчера</b>. <i>adv.</i> — yesterday.
+<small>#747</small> <b>вздохнуть</b>. <i>vb.</i> — to take breath, to sigh.
+<small>#748</small> <b>роль</b>. <i>n.</i> — role.
+<small>#749</small> <b>событие</b>. <i>n.</i> — event.
+<small>#750</small> <b>природа</b>. <i>n.</i> — nature.
+<small>#751</small> <b>слеза</b>. <i>n.</i> — tear.
+<small>#752</small> <b>точка</b>. <i>n.</i> — dot, point.
+<small>#753</small> <b>молча</b>. <i>adv.</i> — silently, without a word.
+<small>#754</small> <b>политический</b>. <i>adj.</i> — political.
+<small>#755</small> <b>садиться</b>. <i>vb.</i> — to sit down.
+<small>#756</small> <b>фамилия</b>. <i>n.</i> — surname.
+<small>#757</small> <b>характер</b>. <i>n.</i> — character, disposition, temper.
+<small>#758</small> <b>пожалуйста</b>. <i>misc.</i> — please.
+<small>#759</small> <b>выше</b>. <i>adv.</i> — higher.
+<small>#760</small> <b>офицер</b>. <i>n.</i> — officer.
+<small>#761</small> <b>толпа</b>. <i>n.</i> — crowd.
+<small>#762</small> <b>перестать</b>. <i>vb.</i> — to stop, cease.
+<small>#763</small> <b>придтись</b>. <i>vb.</i> — to fit, fall; have to.
+<small>#764</small> <b>рост</b>. <i>n.</i> — growth, increase; height.
+<small>#765</small> <b>неизвестный</b>. <i>adj.</i> — unknown.
+<small>#766</small> <b>кресло</b>. <i>n.</i> — armchair.
+<small>#767</small> <b>баба</b>. <i>n.</i> — woman, wife, old woman, (See #911).
+<small>#768</small> <b>секунда</b>. <i>n.</i> — a second.
+<small>#769</small> <b>пожаловать</b>. <i>vb.</i> — to grant, bestow.
+<small>#770</small> <b>петь</b>. <i>vb.</i> — to sing.
+<small>#771</small> <b>опыт</b>. <i>n.</i> — experience.
+<small>#772</small> <b>тихий</b>. <i>adj.</i> — quiet, low, scelent.
+<small>#773</small> <b>поскольку</b>. <i>misc.</i> — so far as, since.
+<small>#774</small> <b>сапог</b>. <i>n.</i> — (high) boot.
+<small>#775</small> <b>уровень</b>. <i>n.</i> — level.
+<small>#776</small> <b>стекло</b>. <i>n.</i> — glass.
+<small>#777</small> <b>получать</b>. <i>vb.</i> — to receive, get (See #239).
+<small>#778</small> <b>внутренний</b>. <i>adj.</i> — inside, internal.
+<small>#779</small> <b>дочь</b>. <i>n.</i> — daughter.
+<small>#780</small> <b>звезда</b>. <i>n.</i> — star.
+<small>#781</small> <b>надеяться</b>. <i>vb.</i> — to hope.
+<small>#782</small> <b>правило</b>. <i>n.</i> — rule.
+<small>#783</small> <b>протянуть</b>. <i>vb.</i> — to stretch, extend.
+<small>#784</small> <b>банк</b>. <i>n.</i> — bank.
+<small>#785</small> <b>десяток</b>. <i>n.</i> — ten, dozens.
+<small>#786</small> <b>глубокий</b>. <i>adj.</i> — deep.
+<small>#787</small> <b>цветок</b>. <i>n.</i> — flower.
+<small>#788</small> <b>ах</b>. <i>misc.</i> — ah!, oh!.
+<small>#789</small> <b>желание</b>. <i>n.</i> — wish.
+<small>#790</small> <b>дождь</b>. <i>n.</i> — rain.
+<small>#791</small> <b>впереди</b>. <i>prep.</i> — before, in front of.
+<small>#792</small> <b>подходить</b>. <i>vb.</i> — to come up, approach;to fit(See #361).
+<small>#793</small> <b>член</b>. <i>n.</i> — member, limb.
+<small>#794</small> <b>лоб</b>. <i>n.</i> — forehead.
+<small>#795</small> <b>улыбка</b>. <i>n.</i> — smile.
+<small>#796</small> <b>борьба</b>. <i>n.</i> — fight, struggle.
+<small>#797</small> <b>ворот</b>. <i>n.</i> — collar.
+<small>#798</small> <b>ящик</b>. <i>n.</i> — box, case.
+<small>#799</small> <b>этаж</b>. <i>n.</i> — floor, storey.
+<small>#800</small> <b>много</b>. <i>adv.</i> — many, much, a lot of(See #187).
+<small>#801</small> <b>называться</b>. <i>vb.</i> — to call oneself.
+<small>#802</small> <b>голубой</b>. <i>adj.</i> — blue, sky-blue.
+<small>#803</small> <b>нечего</b>. <i>misc.</i> — there is nothing, there is no need.
+<small>#804</small> <b>революция</b>. <i>n.</i> — revolution.
+<small>#805</small> <b>впервые</b>. <i>adv.</i> — for the first time.
+<small>#806</small> <b>государственный</b>. <i>adj.</i> — State.
+<small>#807</small> <b>сестра</b>. <i>n.</i> — sister.
+<small>#808</small> <b>долгий</b>. <i>adj.</i> — long.
+<small>#809</small> <b>чей</b>. <i>pron.</i> — whose.
+<small>#810</small> <b>поверить</b>. <i>vb.</i> — to believe.
+<small>#811</small> <b>ситуация</b>. <i>n.</i> — situation.
+<small>#812</small> <b>вновь</b>. <i>adv.</i> — again, once more.
+<small>#813</small> <b>слабый</b>. <i>adj.</i> — weak.
+<small>#814</small> <b>количество</b>. <i>n.</i> — quantity.
+<small>#815</small> <b>вызывать (See #663)</b>. <i>vb.</i> — to call, send.
+<small>#816</small> <b>уверенный</b>. <i>adj.</i> — confident, sure.
+<small>#817</small> <b>выход</b>. <i>n.</i> — exit.
+<small>#818</small> <b>совет</b>. <i>n.</i> — advice; masterrussian, dot com.
+<small>#819</small> <b>взглянуть</b>. <i>vb.</i> — to look, give a glance.
+<small>#820</small> <b>любимый</b>. <i>adj.</i> — dear, loved.
+<small>#821</small> <b>союз</b>. <i>n.</i> — union, alliance; conjunction.
+<small>#822</small> <b>служить</b>. <i>vb.</i> — to serve.
+<small>#823</small> <b>ожидать</b>. <i>vb.</i> — to expect.
+<small>#824</small> <b>сосед</b>. <i>n.</i> — neighbour.
+<small>#825</small> <b>висеть</b>. <i>vb.</i> — to hang.
+<small>#826</small> <b>граница</b>. <i>n.</i> — border.
+<small>#827</small> <b>цвет</b>. <i>n.</i> — colour, color.
+<small>#828</small> <b>серьезный</b>. <i>adj.</i> — serious.
+<small>#829</small> <b>создать</b>. <i>vb.</i> — to create, establish.
+<small>#830</small> <b>дурак</b>. <i>n.</i> — fool, idiot.
+<small>#831</small> <b>свобода</b>. <i>n.</i> — freedom.
+<small>#832</small> <b>зато</b>. <i>conj.</i> — but, but then.
+<small>#833</small> <b>стул</b>. <i>n.</i> — chair.
+<small>#834</small> <b>бутылка</b>. <i>n.</i> — bottle.
+<small>#835</small> <b>ум</b>. <i>n.</i> — mind, brains, intellect.
+<small>#836</small> <b>музыка</b>. <i>n.</i> — music.
+<small>#837</small> <b>быстрый</b>. <i>adj.</i> — quick, fast.
+<small>#838</small> <b>поезд</b>. <i>n.</i> — train.
+<small>#839</small> <b>пришлый</b>. <i>adj.</i> — alien, strange.
+<small>#840</small> <b>уехать</b>. <i>vb.</i> — to leave, depart.
+<small>#841</small> <b>лето</b>. <i>n.</i> — summer.
+<small>#842</small> <b>учиться</b>. <i>vb.</i> — to study, learn.
+<small>#843</small> <b>левый</b>. <i>adj.</i> — left.
+<small>#844</small> <b>выглядеть</b>. <i>vb.</i> — to look.
+<small>#845</small> <b>улыбаться</b>. <i>vb.</i> — to smile(See #605).
+<small>#846</small> <b>интересно</b>. <i>adv.</i> — interestingly.
+<small>#847</small> <b>разговаривать</b>. <i>vb.</i> — to talk, speak.
+<small>#848</small> <b>детский</b>. <i>adj.</i> — child’s, children’s.
+<small>#849</small> <b>тип</b>. <i>n.</i> — type, model.
+<small>#850</small> <b>суд</b>. <i>n.</i> — court, law-court.
+<small>#851</small> <b>связанный</b>. <i>adj.</i> — related, connected, tied-up.
+<small>#852</small> <b>горячий</b>. <i>adj.</i> — hot.
+<small>#853</small> <b>площадь</b>. <i>n.</i> — square, area.
+<small>#854</small> <b>помогать</b>. <i>vb.</i> — to help, assist(See #736).
+<small>#855</small> <b>счастливый</b>. <i>adj.</i> — happy.
+<small>#856</small> <b>тень</b>. <i>n.</i> — shadow.
+<small>#857</small> <b>позволить</b>. <i>vb.</i> — to allow, permit.
+<small>#858</small> <b>лошадь</b>. <i>n.</i> — horse.
+<small>#859</small> <b>радость</b>. <i>n.</i> — gladness, joy.
+<small>#860</small> <b>поле</b>. <i>n.</i> — field.
+<small>#861</small> <b>возраст</b>. <i>n.</i> — age.
+<small>#862</small> <b>орган</b>. <i>n.</i> — organ, body.
+<small>#863</small> <b>карта</b>. <i>n.</i> — map.
+<small>#864</small> <b>слава</b>. <i>n.</i> — glory, fame.
+<small>#865</small> <b>полковник</b>. <i>n.</i> — colonel.
+<small>#866</small> <b>король</b>. <i>n.</i> — king.
+<small>#867</small> <b>входить</b>. <i>vb.</i> — to enter, come in.
+<small>#868</small> <b>цена</b>. <i>n.</i> — price.
+<small>#869</small> <b>информация</b>. <i>n.</i> — information.
+<small>#870</small> <b>мозг</b>. <i>n.</i> — brain.
+<small>#871</small> <b>удовольствие</b>. <i>n.</i> — pleasure.
+<small>#872</small> <b>воля</b>. <i>n.</i> — will.
+<small>#873</small> <b>область</b>. <i>n.</i> — oblast, province; field.
+<small>#874</small> <b>повернуться</b>. <i>vb.</i> — to turn.
+<small>#875</small> <b>острый</b>. <i>adj.</i> — sharp; spicy.
+<small>#876</small> <b>обратно</b>. <i>adv.</i> — back, backwards.
+<small>#877</small> <b>современный</b>. <i>adj.</i> — contemporary, modern, up-to-date.
+<small>#878</small> <b>дама</b>. <i>n.</i> — lady, partner, queen.
+<small>#879</small> <b>семь</b>. <i>cardinal number</i> — seven.
+<small>#880</small> <b>обнаружить</b>. <i>vb.</i> — to discover, find out.
+<small>#881</small> <b>нести</b>. <i>vb.</i> — to carry.
+<small>#882</small> <b>бок</b>. <i>n.</i> — side, flank.
+<small>#883</small> <b>правительство</b>. <i>n.</i> — government.
+<small>#884</small> <b>прислать</b>. <i>vb.</i> — to send.
+<small>#885</small> <b>сад</b>. <i>n.</i> — garden, yard.
+<small>#886</small> <b>встретить</b>. <i>vb.</i> — to meet.
+<small>#887</small> <b>милый</b>. <i>adj.</i> — nice, sweet, dear.
+<small>#888</small> <b>относиться</b>. <i>vb.</i> — to treat, regard, relate.
+<small>#889</small> <b>возникать</b>. <i>vb.</i> — to arise, appear(See #951).
+<small>#890</small> <b>мол</b>. <i>misc.</i> — he says, they say, etc..
+<small>#891</small> <b>повторить</b>. <i>vb.</i> — to repeat.
+<small>#892</small> <b>название</b>. <i>n.</i> — name, title.
+<small>#893</small> <b>средний</b>. <i>adj.</i> — average, middle.
+<small>#894</small> <b>веселый</b>. <i>adj.</i> — cheerful, merry.
+<small>#895</small> <b>американский</b>. <i>adj.</i> — American.
+<small>#896</small> <b>дым</b>. <i>n.</i> — smoke.
+<small>#897</small> <b>пример</b>. <i>n.</i> — example.
+<small>#898</small> <b>плакать</b>. <i>vb.</i> — to cry.
+<small>#899</small> <b>крыша</b>. <i>n.</i> — roof.
+<small>#900</small> <b>мелкий</b>. <i>adj.</i> — shallow, small.
+<small>#901</small> <b>двигаться</b>. <i>vb.</i> — to move.
+<small>#902</small> <b>рыба</b>. <i>n.</i> — fish.
+<small>#903</small> <b>добавить</b>. <i>vb.</i> — to add.
+<small>#904</small> <b>удивиться</b>. <i>vb.</i> — to wonder, be surprised.
+<small>#905</small> <b>бабушка</b>. <i>n.</i> — grandmother(See #773).
+<small>#906</small> <b>вино</b>. <i>n.</i> — wine.
+<small>#907</small> <b>факт</b>. <i>n.</i> — fact.
+<small>#908</small> <b>учитель</b>. <i>n.</i> — teacher, instructor.
+<small>#909</small> <b>весьма</b>. <i>adv.</i> — very, highly, greatly.
+<small>#910</small> <b>осторожно</b>. <i>adv.</i> — carefully, cautiously.
+<small>#911</small> <b>круг</b>. <i>n.</i> — circle; masterrussian, dot com.
+<small>#912</small> <b>погибнуть</b>. <i>vb.</i> — to perish, be killed.
+<small>#913</small> <b>правильно</b>. <i>adv.</i> — correctly, properly.
+<small>#914</small> <b>недавно</b>. <i>adv.</i> — recently, lately.
+<small>#915</small> <b>держаться</b>. <i>vb.</i> — to hold on, behave.
+<small>#916</small> <b>причем</b>. <i>adv.</i> — moreover, and what’s more.
+<small>#917</small> <b>лететь</b>. <i>vb.</i> — to fly.
+<small>#918</small> <b>носить</b>. <i>vb.</i> — to wear.
+<small>#919</small> <b>повод</b>. <i>n.</i> — occasion, reason; bridle.
+<small>#920</small> <b>лагерь</b>. <i>n.</i> — camp.
+<small>#921</small> <b>птица</b>. <i>n.</i> — bird.
+<small>#922</small> <b>корабль</b>. <i>n.</i> — ship.
+<small>#923</small> <b>мнение</b>. <i>n.</i> — opinion.
+<small>#924</small> <b>ночной</b>. <i>adj.</i> — night.
+<small>#925</small> <b>здоровый</b>. <i>adj.</i> — healthy.
+<small>#926</small> <b>зима</b>. <i>n.</i> — winter.
+<small>#927</small> <b>сухой</b>. <i>adj.</i> — dry.
+<small>#928</small> <b>километр</b>. <i>n.</i> — kilometre, kilometer.
+<small>#929</small> <b>действовать</b>. <i>vb.</i> — to act.
+<small>#930</small> <b>привыкнуть</b>. <i>vb.</i> — to get used to, to grow accustomed to.
+<small>#931</small> <b>ибо</b>. <i>conj.</i> — for.
+<small>#932</small> <b>свободный</b>. <i>adj.</i> — free.
+<small>#933</small> <b>лестница</b>. <i>n.</i> — staircase.
+<small>#934</small> <b>неужели</b>. <i>particle.</i> — really, surely.
+<small>#935</small> <b>прочее</b>. <i>pron.</i> — et cetera, other.
+<small>#936</small> <b>вверх</b>. <i>adv.</i> — up, upwards.
+<small>#937</small> <b>детство</b>. <i>n.</i> — childhood.
+<small>#938</small> <b>остров</b>. <i>n.</i> — island.
+<small>#939</small> <b>статья</b>. <i>n.</i> — article.
+<small>#940</small> <b>папа</b>. <i>n.</i> — dad, daddy(See #165).
+<small>#941</small> <b>столь</b>. <i>adv.</i> — so.
+<small>#942</small> <b>мешать</b>. <i>vb.</i> — to interfere, prevent; mix.
+<small>#943</small> <b>водка</b>. <i>n.</i> — vodka.
+<small>#944</small> <b>темнота</b>. <i>n.</i> — darkness.
+<small>#945</small> <b>возникнуть</b>. <i>vb.</i> — to arise, spring up(See #892).
+<small>#946</small> <b>способный</b>. <i>adj.</i> — capable (of).
+<small>#947</small> <b>станция</b>. <i>n.</i> — station.
+<small>#948</small> <b>желать</b>. <i>vb.</i> — to wish.
+<small>#949</small> <b>попробовать</b>. <i>vb.</i> — to try, test.
+<small>#950</small> <b>обязательно</b>. <i>adv.</i> — without fail, be sure.
+<small>#951</small> <b>гражданин</b>. <i>n.</i> — citizen.
+<small>#952</small> <b>странно</b>. <i>adv.</i> — strangely.
+<small>#953</small> <b>вскоре</b>. <i>adv.</i> — soon, shortly.
+<small>#954</small> <b>интересный</b>. <i>adj.</i> — interesting.
+<small>#955</small> <b>команда</b>. <i>n.</i> — team; command.
+<small>#956</small> <b>кровать</b>. <i>n.</i> — bed.
+<small>#957</small> <b>живот</b>. <i>n.</i> — stomach, belly.
+<small>#958</small> <b>ставить</b>. <i>vb.</i> — to put, place, set.
+<small>#959</small> <b>ради</b>. <i>prep.</i> — for the sake of.
+<small>#960</small> <b>тишина</b>. <i>n.</i> — silence, stillness.
+<small>#961</small> <b>понятно</b>. <i>adv.</i> — clearly, plainly.
+<small>#962</small> <b>получаться</b>. <i>vb.</i> — to come out.
+<small>#963</small> <b>щека</b>. <i>n.</i> — cheek.
+<small>#964</small> <b>страшно</b>. <i>adv.</i> — terribly, awfully.
+<small>#965</small> <b>район</b>. <i>n.</i> — area, region.
+<small>#966</small> <b>наверно</b>. <i>adv.</i> — probably(See #461).
+<small>#967</small> <b>позвонить</b>. <i>vb.</i> — to call, to telephone.
+<small>#968</small> <b>зеркало</b>. <i>n.</i> — mirror.
+<small>#969</small> <b>гореть</b>. <i>vb.</i> — to burn.
+<small>#970</small> <b>невозможно</b>. <i>adv.</i> — impossible.
+<small>#971</small> <b>выражение</b>. <i>n.</i> — expression.
+<small>#972</small> <b>заболевание</b>. <i>n.</i> — disease, illness.
+<small>#973</small> <b>судить</b>. <i>vb.</i> — to judge, try.
+<small>#974</small> <b>большинство</b>. <i>n.</i> — majority.
+<small>#975</small> <b>проводить</b>. <i>vb.</i> — to lead, escort; accompany(See #713).
+<small>#976</small> <b>управление</b>. <i>n.</i> — operation, control.
+<small>#977</small> <b>колоть</b>. <i>vb.</i> — to prick.
+<small>#978</small> <b>мокрый</b>. <i>adj.</i> — wet.
+<small>#979</small> <b>приказ</b>. <i>n.</i> — order.
+<small>#980</small> <b>прямой</b>. <i>adj.</i> — straight.
+<small>#981</small> <b>фронт</b>. <i>n.</i> — front.
+<small>#982</small> <b>кончиться</b>. <i>vb.</i> — to end.
+<small>#983</small> <b>куст</b>. <i>n.</i> — bush.
+<small>#984</small> <b>стрелять</b>. <i>vb.</i> — to shoot.
+<small>#985</small> <b>закричать</b>. <i>vb.</i> — to shout, cry out.
+<small>#986</small> <b>собраться</b>. <i>vb.</i> — to gather, collect(See #479).
+<small>#987</small> <b>завод</b>. <i>n.</i> — factory.
+<small>#988</small> <b>художник</b>. <i>n.</i> — painter, artist.
+<small>#989</small> <b>использовать</b>. <i>vb.</i> — to use, utilize, make use of.
+<small>#990</small> <b>дорогой</b>. <i>adj.</i> — on the way.
+<small>#991</small> <b>пахнуть</b>. <i>vb.</i> — to smell.
+<small>#992</small> <b>отсюда</b>. <i>adv.</i> — from here.
+<small>#993</small> <b>рот</b>. <i>n.</i> — mouth.
+<small>#994</small> <b>пора</b>. <i>misc.</i> — it’s time;at times, now and then(See #279).
+<small>#995</small> <b>слегка</b>. <i>adv.</i> — slightly.
+<small>#996</small> <b>обещать</b>. <i>vb.</i> — to promise.
+<small>#997</small> <b>мешок</b>. <i>n.</i> — bag, sack.
+<small>#998</small> <b>стакан</b>. <i>n.</i> — glass.
+<small>#999</small> <b>кулак</b>. <i>n.</i> — fist.
+<small>#1000</small> <b>знак</b>. <i>n.</i> — sign.
